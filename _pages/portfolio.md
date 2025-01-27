@@ -20,3 +20,8 @@ BFMC is an international technical competition on developing autonomous driving 
 This cleaning robot is equipped with two robotic wings actuated by servos and an underwater manipulator, allowing it to clean both surface and underwater areas. It supports both autonomous and manual operation modes. The robot is powered by an NVIDIA Jetson TX2 and two Arduino Mega boards. On the software side, ROS1 serves as the middleware, OpenCV is used for image processing tasks, and YOLOv5 is utilized for object detection.
 
 * [*Click here for the trial run video*](https://youtu.be/F--SvPmMNR4)
+
+## Autonomous Underwater Vehicle (AUV)
+The robot was developed to compete in the Singapore AUV Challenge 2018. It was powered by an NVIDIA Jetson TK1 and two Arduino Mega boards. On the software side, ROS1 was used as the middleware, while OpenCV handled computer vision tasks. The robot was equipped with six thrusters, enabling five degrees of freedom. In the competition, we ranked among the top 20 teams out of 80 participants. After the competition, the robot was reconfigured and further developed into a river-cleaning robot..
+
+* [*Click here for the testing video*](https://www.youtube.com/watch?v=7rnfw42z0WM)
