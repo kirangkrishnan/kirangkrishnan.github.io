@@ -12,3 +12,6 @@ We developed a new approach for predicting pedestrian trajectories in autonomous
 
 ## Bosch Future Mobility Challenge (BFMC) - f1tenth vehicle
 BFMC is an international technical competition on developing autonomous driving and connectivity algorithms on 1/10 scale vehicles provided by the company to navigate in a designated environment simulating a miniature smart city. I was part of Team Aalto, representing the university in the competition and finished 6th out of 120 teams. The chassis of the car was provided by Bosch themselves. However, we modified the car with an NVIDIA Jetson Orin Nano, which was used as the onboard computer. A nucleo board is used as the microcontroller to read the Inertial Measurement Units (IMU) and control the motors. Robot Operating System 2 (ROS2) was used as the middleware.
+
+* [*Click here for the trial run video*](https://youtu.be/GRJrYqMrBPY)
+* [*Click here for the competition aftermovie*](https://www.youtube.com/watch?v=epFLKjvn6YA)
